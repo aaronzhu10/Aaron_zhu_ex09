@@ -16,7 +16,7 @@ The box plot compares students' interest in pre-lecture videos against their
 self-reported understanding of course material, revealing whether struggling 
 students desire more supplemental resources.
 
-![Box Plot](boxchart.png)
+![Box Plot](boxplot.png)
 
 The violin plot visualizes the density of interest in pre-lecture videos across 
 varying levels of lesson video effectiveness, showing how students who find 
